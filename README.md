@@ -6,4 +6,4 @@ My research broadly explores how generative models learn representations and mod
 
 **Research interests:** Generative Models · Video Generation · Representation Learning · World Models · Computer Vision
 
-🌐 [Personal Website](https://vssilpa.github.io/) · 🎓 Google Scholar · 💼 LinkedIn
+🌐 [Personal Website](https://vssilpa.github.io/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=wg72gbUAAAAJ&hl=en) · 💼 [LinkedIn](https://www.linkedin.com/in/vs-silpa/)

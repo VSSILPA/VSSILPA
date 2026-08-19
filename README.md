@@ -2,7 +2,7 @@
 
 I'm an **ELLIS PhD researcher** working at the intersection of **generative models and computer vision**.
 
-My research broadly explores how generative models learn representations and model visual content and dynamics.
+My research broadly explores how generative models learn representations and model visual content and dynamics. My current interests include video generation, diffusion models, representation learning, and world models.
 
 **Research interests:** Generative Models · Video Generation · Representation Learning · World Models · Computer Vision
 
